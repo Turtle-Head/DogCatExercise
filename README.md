@@ -25,4 +25,10 @@ Class exercise: create two classes, `Dog` and `Cat`, each representing a specifi
 
     - Member functions:
         * `meow()` (void): Print a message to the console that simulates the cat meowing.
-        * `getCatInfo()` (void): Print the cat's name, color, and age to the console.
+        * `getCatInfo()` (void): Print the cat's name, color, and age to the console.<br>
+1. The implementation of the `Dog` and `Cat` classes, including their constructors and destructors.
+
+2. A `main()` function that:
+    * Creates at least one instance of the `Dog` class and one instance of the `Cat` class.
+    * Calls the `bark()` method and the `getDogInfo()` method for the `Dog` instance(s).
+    * Calls the `meow()` method and the `getCatInfo()` method for the `Cat` instance(s).
